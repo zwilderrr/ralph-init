@@ -1,0 +1,15 @@
+{
+  "name": "aico-skills",
+  "description": "Shared aico team skills for Claude Code",
+  "owner": {
+    "name": "aico",
+    "email": "zack@aico.insure"
+  },
+  "plugins": [
+    {
+      "name": "aico",
+      "source": "./plugins/aico",
+      "description": "Shared aico team skills for Claude Code"
+    }
+  ]
+}

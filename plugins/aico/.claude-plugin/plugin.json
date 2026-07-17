@@ -1,0 +1,9 @@
+{
+  "name": "aico",
+  "description": "Shared aico team skills: ralph-init (scaffold the Ralph AFK coding loop)",
+  "version": "0.1.0",
+  "author": {
+    "name": "aico",
+    "email": "zack@aico.insure"
+  }
+}

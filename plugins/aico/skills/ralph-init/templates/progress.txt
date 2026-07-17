@@ -1,0 +1,2 @@
+# Ralph progress log — session-scoped. Clean this file between sessions.
+# Each iteration appends: task ref | what was done | key decisions & why | files touched | blockers/notes for next iteration.

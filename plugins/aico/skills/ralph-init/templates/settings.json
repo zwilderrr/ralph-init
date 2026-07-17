@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "deny": [
+      "Bash(rm:*)",
+      "Bash(rmdir:*)",
+      "Bash(sudo:*)",
+      "Bash(chmod -R:*)",
+      "Bash(chown:*)",
+      "Bash(git clean:*)",
+      "Bash(git reset --hard:*)",
+      "Bash(git push --force:*)",
+      "Bash(git push -f:*)",
+      "Bash(cd /*)",
+      "Bash(cd ~*)",
+      "Bash(cd ..*)",
+      "Read(../**)",
+      "Read(~/**)",
+      "Edit(../**)",
+      "Edit(~/**)",
+      "Write(../**)",
+      "Write(~/**)"
+    ]
+  }
+}
