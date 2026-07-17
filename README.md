@@ -1,3 +1,5 @@
+Claude skill based on Matt Pocock's article on Ralph loops + some simple adversarial code review. [article](https://www.aihero.dev/getting-started-with-ralph)
+
 # aico claude-skills
 
 Shared Claude Code skills for the aico team, distributed as a plugin marketplace.
