@@ -5,7 +5,7 @@ Shared Claude Code skills for the aico team, distributed as a plugin marketplace
 ## Install (once per machine)
 
 ```
-/plugin marketplace add aico/claude-skills
+/plugin marketplace add zwilderrr/ralph-init
 /plugin install aico@aico-skills
 ```
 
